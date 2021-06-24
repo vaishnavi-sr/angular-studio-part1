@@ -1,0 +1,17 @@
+.box{
+    background-color: rgb(98, 199, 72);
+    font-size: larger;
+    padding: 10px;
+
+}
+h1 {
+    text-align: center;
+    color: darkblue;
+    text-decoration: underline;
+}
+h3{
+    text-align: center;
+    text-emphasis:none;
+    text-decoration-color: darkblue;
+    color: darkmagenta;
+}
